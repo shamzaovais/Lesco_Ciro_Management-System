@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194275523640",
+    "project_id": "lesco-crisis-app",
+    "storage_bucket": "lesco-crisis-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194275523640:android:06a657a365b86f32153acd",
+        "android_client_info": {
+          "package_name": "com.example.command_center"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6c4EefRxq8QjM2tviUsVCx_j1bdvX7Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
