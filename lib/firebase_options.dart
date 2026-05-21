@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDpkBiJtiFkevOhrQfDF_5rS6s41Y_nIRg',
+    apiKey: 'AIza...........................',
     appId: '1:194275523640:web:4df3e12aaaef99b1153acd',
     messagingSenderId: '194275523640',
     projectId: 'lesco-crisis-app',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC6c4EefRxq8QjM2tviUsVCx_j1bdvX7Ss',
+    apiKey: 'AIza......',
     appId: '1:194275523640:android:06a657a365b86f32153acd',
     messagingSenderId: '194275523640',
     projectId: 'lesco-crisis-app',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBf1L5RBllnlq9FdVO8devR24aZV9O6AK4',
+    apiKey: 'AIza.......',
     appId: '1:194275523640:ios:f1bbcda64960f57a153acd',
     messagingSenderId: '194275523640',
     projectId: 'lesco-crisis-app',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBf1L5RBllnlq9FdVO8devR24aZV9O6AK4',
+    apiKey: 'AIza..............',
     appId: '1:194275523640:ios:f1bbcda64960f57a153acd',
     messagingSenderId: '194275523640',
     projectId: 'lesco-crisis-app',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDpkBiJtiFkevOhrQfDF_5rS6s41Y_nIRg',
+    apiKey: 'AIza.............',
     appId: '1:194275523640:web:9a1f1ba4923f5e7d153acd',
     messagingSenderId: '194275523640',
     projectId: 'lesco-crisis-app',
