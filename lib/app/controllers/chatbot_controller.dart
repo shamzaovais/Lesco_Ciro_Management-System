@@ -13,7 +13,7 @@ class ChatbotController extends GetxController {
     super.onInit();
     
     // API key requested by the user
-    final apiKey = "AIzaSyAOrucwP04lWTAPyzu3zuwQ8In2OcpsC1o";
+    final apiKey = "AIza.........";
 
     model = GenerativeModel(
       model: 'gemini-2.5-flash',
